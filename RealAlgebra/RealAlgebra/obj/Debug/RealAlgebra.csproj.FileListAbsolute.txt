@@ -1,0 +1,10 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb
